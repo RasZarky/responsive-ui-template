@@ -1,19 +1,7 @@
 # responsive_template
 
-A new Flutter project.
+<img src="https://github.com/RasZarky/responsive-ui-template/assets/83512618/d07cc4f8-ee81-4a43-bda4-93647a30fd25" width="100%" heigth="100">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 ## S C R E E N  S H O T S
 
